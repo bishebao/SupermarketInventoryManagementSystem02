@@ -1,0 +1,2 @@
+# SupermarketInventoryManagementSystem02
+ 基于SSM的超市进货管理系统
